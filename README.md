@@ -1,4 +1,4 @@
-Projet en langage C pour analyser une trame GPS de type GPGGA.
+## Projet en langage C pour analyser une trame GPS de type GPGGA.
 Développeurs: BERTHOMIEU Hugo et FAURE Mathias
 
 Ce programme extrait et convertit l'heure, la longitude et la latitude d'une trame GPS GPGGA à l'aide de plusieurs fonctions :
