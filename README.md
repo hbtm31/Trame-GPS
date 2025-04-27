@@ -9,7 +9,7 @@ Ce programme extrait et convertit l'heure, la longitude et la latitude d'une tra
 Exemple de la trame utilisée pour effectuer des tests :
 $GPGGA,123519,4807.038,N,01131.324,E,1,08,0.9,545.4,M,46.9,M,,*42
 
-Afin d'utiliser le programme il faut compiler soit avec : make main soit avec : '''gcc main.c -o main''' et au final utiliser la commande '''./main''' .
+Afin d'utiliser le programme il faut compiler soit avec : make main soit avec : gcc main.c -o main et au final utiliser la commande ./main .
 
 Affichage attendu :
 Heure : xxhxxmxxs
